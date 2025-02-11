@@ -1,3 +1,20 @@
+Hello! My name is **Eliezer Vázquez**. I am a software developer and manager with experience in multiple programming languages. I have worked on **Android projects, web applications, and desktop applications**.
+
+# 📂 Featured Projects
+### 🔹 Android Application Development
+- Creation of mobile applications using Java and Kotlin.
+- Implementation of intuitive and optimized interfaces.
+- Integration with local and cloud databases.
+
+### 🔹 Web Applications
+- Development of websites and web systems with modern technologies.
+- Use of frameworks such as Laravel, React, and Vue.js.
+- Implementation of RESTful APIs and SQL/NoSQL databases.
+
+### 🔹 Desktop Applications
+- Creation of software for business management systems.
+- Development with Java Swing and JavaFX.
+- Integration in network environments and data management.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eliezer4089) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Eli30122002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eliezer2vazquez@gmail.com) 
