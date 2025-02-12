@@ -1,73 +1,48 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eliezer Vázquez - GitHub</title>
-    <style>
-        body {
-            background: linear-gradient(to right, #6a82fb, #a1c4fd);
-            font-family: Arial, sans-serif;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
-        h1, h2 {
-            text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
-        }
-        .container {
-            max-width: 900px;
-            margin: auto;
-            padding: 20px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 15px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-        }
-        a {
-            color: white;
-            text-decoration: none;
-            padding: 10px 15px;
-            border-radius: 5px;
-            transition: all 0.3s ease;
-        }
-        a:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: scale(1.1);
-        }
-        .socials img {
-            width: 40px;
-            margin: 10px;
-            transition: transform 0.3s;
-        }
-        .socials img:hover {
-            transform: scale(1.2);
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>👋 ¡Hola! Soy Eliezer Vázquez</h1>
-        <p>Desarrollador de software especializado en Android, aplicaciones web y de escritorio.</p>
+# 👋 ¡Hola! Soy Eliezer Vázquez
 
-        <h2>📂 Proyectos Destacados</h2>
-        <p><strong>Android:</strong> Desarrollo de apps con Java y Kotlin</p>
-        <p><strong>Web:</strong> Laravel, React, Vue.js, APIs REST</p>
-        <p><strong>Escritorio:</strong> Java Swing y JavaFX</p>
+Desarrollador de software especializado en Android, aplicaciones web y de escritorio.
 
-        <h2>🌐 Redes Sociales</h2>
-        <div class="socials">
-            <a href="https://instagram.com/eliezer4089" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-            <a href="https://x.com/@Eli30122002" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-            <a href="mailto:eliezer2vazquez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-        </div>
+## 📂 Proyectos Destacados
 
-        <h2>💻 Tech Stack</h2>
-        <p>C++, JavaScript, HTML5, Java, PHP, Kotlin, Laravel, MySQL, Git, GitHub</p>
+### 🔹 Android Application Development
+- Desarrollo de apps con Java y Kotlin
+- Implementación de interfaces intuitivas
+- Integración con bases de datos locales y en la nube
 
-        <h2>📊 GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=Elieth1230&theme=dark&hide_border=true&include_all_commits=true&count_private=true"><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elieth1230&theme=dark&hide_border=true"><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elieth1230&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-    </div>
-</body>
-</html>
+### 🔹 Web Applications
+- Desarrollo de sitios web y sistemas con Laravel, React y Vue.js
+- Implementación de APIs RESTful y bases de datos SQL/NoSQL
+
+### 🔹 Desktop Applications
+- Desarrollo de software para gestión empresarial
+- Uso de Java Swing y JavaFX
+- Integración en entornos de red y manejo de datos
+
+## 🌐 Redes Sociales
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eliezer4089) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Eli30122002) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eliezer2vazquez@gmail.com) 
+
+## 💻 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Elieth1230&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Elieth1230&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elieth1230&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 💰 Puedes apoyarme con una donación
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@eliezer1219)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Elieth1230&icon=0&color=0)](https://visitcount.itsvg.in)
+
